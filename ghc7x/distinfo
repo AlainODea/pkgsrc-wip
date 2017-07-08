@@ -1,0 +1,7 @@
+$NetBSD$
+
+SHA1 (ghc-7.10.3b-src.tar.bz2) = 6ff0d2131bff77b90b34fbb5641c38e9b30fef9c
+RMD160 (ghc-7.10.3b-src.tar.bz2) = 39b9f6310c6eba28fc3bc52a67be935534ff1d8c
+SHA512 (ghc-7.10.3b-src.tar.bz2) = d117cfd0dc7c1e60a230871e071cf4bd823c67ff5facd804326d2dad402f8eba2066104098e8bee9055d182c401a9c28d2730ef9b65d556cee88a18e639bbf60
+Size (ghc-7.10.3b-src.tar.bz2) = 13797785 bytes
+SHA1 (patch-settings.in) = a2abaa335551f2bcfa30e4b18b9bff73287c7296
